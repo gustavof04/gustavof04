@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/gustavofernandes04">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:fernandes.gustavo2910@gmail.com?subject=Olá Gustavo!">
+    <a href="mailto:fernandes.gustavo2910@gmail.com?subject=">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt ="E-mail">
     </a>
 </p>
