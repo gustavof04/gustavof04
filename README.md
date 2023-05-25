@@ -4,7 +4,7 @@
     <b>Bem-vindos à minha página!</b><br><br>
     <i>
         Me chamo Gustavo.<br>
-        Sou um acadêmico de Análise e Desenvolvimento de Sistemas atualmente aprimorando minhas habilidades em Python.<br>
+        Sou um estudante de Análise e Desenvolvimento de Sistemas atualmente aprimorando minhas habilidades de programação.<br>
         Aberto a feedbacks, sugestões e colaborações. Sintam-se a vontade para ver meus projetos!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gustavofernandes04">
