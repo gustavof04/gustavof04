@@ -22,6 +22,7 @@
 
 ### Tecnologias e Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/gustavof04)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/gustavof04)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/gustavof04)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/gustavof04)
 
