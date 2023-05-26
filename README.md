@@ -17,6 +17,7 @@
 
 ### Linguagens
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gustavof04)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/gustavof04)
 
 <!-- ### ML/DL -->
 
