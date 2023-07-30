@@ -1,4 +1,4 @@
-<h1 align="center">Olá pessoal! <img src="https://media0.giphy.com/media/RVy3XU9pV1euIO3bsR/giphy.gif?cid=6c09b952as9zripoinv5so47pjiu6eg6na190s1m31j28gf6&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="28px" alt="👋"></h1>
+<h1 align="center">Olá pessoal!</h1>
 
 <p align="center">
     <b>Bem-vindos à minha página!</b><br><br>
