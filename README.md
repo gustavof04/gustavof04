@@ -1,11 +1,11 @@
 <h1 align="center">Olá pessoal!</h1>
 
 <p align="center">
-    <b>Bem-vindos à minha página!</b><br><br>
+    <b>Bem-vindos ao meu perfil</b><br><br>
     <i>
         Me chamo Gustavo.<br>
         Sou um estudante de Análise e Desenvolvimento de Sistemas atualmente aprimorando minhas habilidades de programação.<br>
-        Aberto a feedbacks, sugestões e colaborações. Sintam-se a vontade para ver meus projetos!<br>
+        Aberto a feedbacks, sugestões e colaborações. Sintam-se a vontade para verem meus projetos!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gustavofernandes04">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
