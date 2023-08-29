@@ -1,10 +1,10 @@
-<h1 align="center">Olá pessoal!</h1>
+<h1 align="center">Olá!</h1>
 
 <p align="center">
     <b>Bem-vindos ao meu perfil</b><br><br>
     <i>
         Me chamo Gustavo.<br>
-        Sou um estudante de Análise e Desenvolvimento de Sistemas atualmente aprimorando minhas habilidades de programação.<br>
+        Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente aprimorando minhas habilidades de programação.<br>
         Aberto a feedbacks, sugestões e colaborações. Sintam-se a vontade para verem meus projetos.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gustavofernandes04">
@@ -23,12 +23,17 @@
 ### Tecnologias e Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/gustavof04)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/gustavof04)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/gustavof04)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/gustavof04)
 
 ### DB
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Versionamento
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### SO
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gustavof04)
