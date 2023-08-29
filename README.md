@@ -1,7 +1,7 @@
 <h1 align="center">Olá!</h1>
 
 <p align="center">
-    <b>Bem-vindo ao meu perfil</b><br><br>
+    <b>Bem-vindo ao meu perfil.</b><br><br>
     <i>
         Me chamo Gustavo.<br>
         Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente aprimorando minhas habilidades de programação.<br>
