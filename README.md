@@ -33,7 +33,7 @@
 
 ### Versionamento
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 
 ### SO
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gustavof04)
