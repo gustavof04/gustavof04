@@ -2,11 +2,10 @@
 
 <p align="center">
     <b>Bem-vindo ao meu perfil.</b><br><br>
-    <i>
         Me chamo Gustavo.<br>
         Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente aprimorando minhas habilidades de programação.<br>
         Aberto a feedbacks, sugestões e colaborações. Sinta-se à vontade para ver meus projetos.<br>
-    </i><br>
+        <br>
     <a href="https://www.linkedin.com/in/gustavofernandes04">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
