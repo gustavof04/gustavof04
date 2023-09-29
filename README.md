@@ -39,13 +39,10 @@
 <details>
 <p align="center">
   <a href="https://github.com/gustavof04">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavof04&theme=transparent&locale=pt-BR" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavof04&theme=transparent&locale=pt-br" />
   </a>
   <a href="https://github.com/gustavof04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavof04&hide_border=true&card_width=338&theme=transparent&locale=pt-BR" />
-  </a>
-  <a href="https://github.com/gustavof04">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavof04&theme=transparent&locale=pt-BR" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavof04&theme=transparent&locale=pt-br" />
   </a>
 </p>
 </details>
