@@ -30,6 +30,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Cloud
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-black?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ### Containerização
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
 
