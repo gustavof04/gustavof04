@@ -28,6 +28,7 @@
 
 ### DB
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Containerização
