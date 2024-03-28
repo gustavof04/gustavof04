@@ -16,26 +16,27 @@
 
 ### Linguagens
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/gustavof04)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gustavof04)
 
 
 ### Tecnologias e Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/gustavof04)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/gustavof04)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/gustavof04)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/gustavof04)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/gustavof04)
+![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=%23092E20)](https://github.com/gustavof04)
 
-### DB
-![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
+### Banco de Dados e ORM's
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=%23316192)
+![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=%2307405e)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=3982CE)
 
 ### Containerização
-![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
-
-### SO
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gustavof04)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=%230db7ed)
 
 <details>
 <p align="center">
