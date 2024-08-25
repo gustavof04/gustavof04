@@ -17,10 +17,12 @@
 ### Linguagens
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/gustavof04)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gustavof04)
 
 
-### Tecnologias e Frameworks
+### Tecnologias, Bibliotecas e Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/gustavof04)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/gustavof04)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
@@ -28,7 +30,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=%23092E20)](https://github.com/gustavof04)
 
-### Banco de Dados e ORM's
+### Banco de Dados e ORMs
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=%23316192)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=%2307405e)
