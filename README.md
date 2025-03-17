@@ -1,10 +1,10 @@
-<h1 align="center">Olá!</h1>
+<h1 align="center">Hello!</h1>
 
 <p align="center">
-    <b>Bem-vindo ao meu perfil.</b><br><br>
-        Me chamo Gustavo.<br>
-        Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente aprimorando minhas habilidades de programação.<br>
-        Aberto a feedbacks, sugestões e colaborações. Sinta-se à vontade para ver meus projetos.<br>
+    <b>Welcome to my profile.</b><br><br>
+        My name is Gustavo.<br>
+        I'm a fullstack developer (backend & frontend) with experience in developing scalable and high-performance solutions that make a real impact.<br>
+        Open to feedback, suggestions, and collaborations. Feel free to check out my projects.<br>
         <br>
     <a href="https://www.linkedin.com/in/gustavofernandes04">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -14,7 +14,7 @@
     </a>
 </p>
 
-### Linguagens
+### Programming Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/gustavof04)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)
@@ -22,7 +22,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gustavof04)
 
 
-### Tecnologias, Bibliotecas e Frameworks
+### Technologies, Libs and Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/gustavof04)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/gustavof04)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
@@ -30,14 +30,14 @@
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=%23092E20)](https://github.com/gustavof04)
 
-### Banco de Dados e ORMs
+### DB and ORM's
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=%23316192)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=%2307405e)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=3982CE)
 
-### Containerização
+### Containerization
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=%230db7ed)
 
 <details>
