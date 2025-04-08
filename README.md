@@ -24,8 +24,8 @@
 
 ### Frameworks and Libs
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/gustavof04)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
 ![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=%23092E20)](https://github.com/gustavof04)
