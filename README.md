@@ -22,12 +22,12 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gustavof04)
 
 
-### Technologies, Libs and Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/gustavof04)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/gustavof04)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
+### Frameworks and Libs
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/gustavof04)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
+![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=%23092E20)](https://github.com/gustavof04)
 
 ### DB and ORM's
@@ -36,6 +36,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=%2307405e)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=CC2927)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=3982CE)
+![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ### Containerization
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=%230db7ed)
